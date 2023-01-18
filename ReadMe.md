@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Medha Hira<br>👀 I’m interested in UI/UX Design, Operating Systems, Data Structures and Algorithms.<br>🌱 I’m currently learning TensorFlow, MySQL, and  Data Structures.<br>💞️ I’m looking to collaborate on ML and OS related projects.<br>📫 You can reach me on my Linkedin or on my Mail
+👋 Hi, I’m Medha Hira.<br>👀 I’m interested in UI/UX Design, Operating Systems, Data Structures and Algorithms.<br>🌱 I’m currently learning TensorFlow, MySQL, and  Data Structures.<br>💞️ I’m looking to collaborate on ML and OS related projects.<br>📫 You can reach me on my Linkedin or on my Mail.
 
 
 ## 🌐 Socials:
